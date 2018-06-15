@@ -8,11 +8,9 @@
 
 # Wrattler: _Interactive, smart<br /> and polyglot notebooks_
 
-<h4 style="margin-bottom:0px;margin-top:300px">Tomas Petricek, <em>The Alan Turing Institute</em></h4>
+<h4 style="margin-bottom:0px;margin-top:300px">James Geddes<em>, Tomas Petricek, Charles Sutton</em></h4>
 
-_[http://tomasp.net](http://tomasp.net/academic) <span style="margin:0px 6px 0px 6px">|</span>
-[tomas@tomasp.net](mailto:tomas@tomasp.net) <span style="margin:0px 6px 0px 6px">|</span>
-[@tomaspetricek](http://twitter.com/tomaspetricek)_
+_[https://github.com/wrattler](https://github.com/wrattler)_
 
 ----------------------------------------------------------------------------------------------------
 
@@ -81,10 +79,7 @@ _<i class="fa fa-user"></i>_ Explainable – _no black boxes_
 
 ----------------------------------------------------------------------------------------------------
 
-## DEMO
-
-_Analysing broadband speed in Wrattler_  
-_https://wrattler.github.io/wrattler/broadband.html_
+<img src="images/screen1.png" style="height:700px;margin-left:80px;margin-top:-20px" />
 
 ----------------------------------------------------------------------------------------------------
 
@@ -114,7 +109,41 @@ _<span class="circ"><span>4</span></span> Polyglot programming_
 
 ****************************************************************************************************
 
-# Wrattler 
+# Project plan
+_From prototype to open-source project_
+
+----------------------------------------------------------------------------------------------------
+
+### Project status
+_Wrattler prototype available at [github.com/wrattler](http://github.com/wrattler)_
+
+<br />
+
+_<i class="fa fa-check-square"></i>_ Done – _Prototype and architecture_<br />
+<span style="margin-right:60px"></span> _Dependency graph and datadiff assistant_
+
+_<i class="fa fa-cog"></i>_ Current – _System development_<br />
+<span style="margin-right:60px"></span> _AIDA data analyses and JupyterLab integration_
+
+_<i class="fa fa-eye"></i>_ Research – _Open questions_<br />
+<span style="margin-right:60px"></span> _Further AI assistants and semantic data store_
+
+----------------------------------------------------------------------------------------------------
+
+### Development milestones
+_Detailed plan [available on GitHub](https://github.com/wrattler/wrattler/issues/9)_
+
+<br />
+
+_<span class="circ"><span>0</span></span>_ Basic browser notebook  _(mid-August)_  
+_<span class="circ"><span>1</span></span>_ Internal alpha version _(mid-September)_  
+_<span class="circ"><span>2</span></span>_ Public with AIDA analyses _(end of November)_  
+_<span class="circ"><span>3</span></span>_ Adding more assistants _(end of February)_  
+
+
+****************************************************************************************************
+
+# Wrattler prototype 
 _Noteboks that are_ <span class="circ"><span>1</span></span> interactive 
 <span class="circ"><span>2</span></span> smart _and_ 
 <span class="circ"><span>3</span></span> polyglot
@@ -138,8 +167,7 @@ _<i class="fa fa-arrow-up"></i> Using dependency graph_
 
 ----------------------------------------------------------------------------------------------------
 
-# <span class="circ"><span>1</span></span> DEMO
-Interactive – _Exploring data in the browser_
+<img src="images/screen2.png" style="margin-left:20px;margin-top:20px" />
 
 ----------------------------------------------------------------------------------------------------
 
@@ -156,9 +184,7 @@ _<i class="fa fa-archive"></i> No black box magic_
 
 ----------------------------------------------------------------------------------------------------
 
-# <span class="circ"><span>2</span></span> DEMO
-Smart – _Cleaning data with the datadiff assistant_
-
+<img src="images/screen3.png" style="margin-left:20px;margin-top:20px" />
 
 ----------------------------------------------------------------------------------------------------
 
@@ -175,8 +201,7 @@ _<i class="fa fa-comment-alt"></i> Semantic annotations_
 
 ----------------------------------------------------------------------------------------------------
 
-# <span class="circ"><span>3</span></span> DEMO
-Polyglot – _Sharing data between R and JavaScript_
+<img src="images/screen4.png" style="margin-left:20px;margin-top:20px" />
 
 ****************************************************************************************************
 
@@ -195,22 +220,6 @@ _<i class="fa fa-database"></i> Separate state and language runtimes_
 _<i class="fa fa-globe"></i> Dependency graph in the browser_
 
 _<i class="fa fa-magic"></i> Platform for AI assisted data science_
-
-----------------------------------------------------------------------------------------------------
-
-### Project status
-_Wrattler prototype: [github.com/wrattler](http://github.com/wrattler)_
-
-<br />
-
-_<i class="fa fa-check-square"></i>_ Done – _Prototype with dependency graph running  
-<span style="margin-right:60px"></span>R, JavaScript languages and datadiff assistant_
-
-_<i class="fa fa-cog"></i>_ Progress – _Deployment as part of JupyterLab  
-<span style="margin-right:60px"></span>Data store annotations and graph versioning_
-
-_<i class="fa fa-eye"></i>_ Visionary – _Integration of further AI assistants  
-<span style="margin-right:60px"></span>Provenance tracking, modes of interaction_
 
 ----------------------------------------------------------------------------------------------------
 
