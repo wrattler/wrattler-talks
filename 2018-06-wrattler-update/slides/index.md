@@ -8,7 +8,8 @@
 
 # Wrattler: _Interactive, smart<br /> and polyglot notebooks_
 
-<h4 style="margin-bottom:0px;margin-top:300px">James Geddes<em>, Tomas Petricek, Charles Sutton</em></h4>
+<h4 style="margin-bottom:0px;margin-top:300px"><em>Tomas Petricek, James Geddes,
+Charles Sutton</em></h4>
 
 _[https://github.com/wrattler](https://github.com/wrattler)_
 
